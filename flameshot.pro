@@ -243,7 +243,7 @@ unix:!macx {
       packaging {
         PREFIX = /usr
       } else {
-        PREFIX = /usr/local
+        PREFIX = /usr
       }
     }
 

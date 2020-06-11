@@ -23,6 +23,8 @@
 #define COLOR_WHEEL_HPP
 
 #include <QWidget>
+#include <QPainter>
+#include <QPainterPath>
 
 namespace color_widgets {
 
